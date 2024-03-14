@@ -1,0 +1,8 @@
+{
+  "name": "jiffy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "104a3063"
+}
